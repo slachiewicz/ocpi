@@ -7,3 +7,11 @@ releases/OCPI*.pdf
 /OCPI.iml
 releases/*/.bookmarks.txt
 releases/*/.references.txt
+releases/*/examples/*
+releases/*/images/*
+releases/*/plantuml/*
+releases/*/*.adoc
+releases/*/*.asciidoc
+releases/*/*.pl
+releases/*/*.svg
+ocpi_merged.adoc
